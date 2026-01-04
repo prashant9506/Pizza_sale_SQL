@@ -30,9 +30,9 @@
 
 # Dataset Description
   The dataset consists of the following tables:
-  orders – Order-level information
-  
-  order_details – Pizza-level order details
+  orders – Order date and time information
+
+  order_details – Pizza-level order quantities
   
   pizzas – Pizza size and price details
   
